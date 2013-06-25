@@ -1,0 +1,24 @@
+{
+  "name": "baas-login",
+  "version": "0.1.0",
+  "description": "Login page make to use baas.io-sdk-javsscript",
+  "main": "main.js",
+  "dependencies": {
+    "grunt": "~0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:r2fresh/baas.io-example-javascript"
+  },
+  "keywords": [
+    "baas.io",
+    "javascript"
+  ],
+  "author": "support@baas.io",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
